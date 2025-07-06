@@ -13,4 +13,5 @@ in this project I have used :
   - Divider
   - NetworkImage
   - Text
+    
 these the main widgets , I have dealed with to create my whats app .
